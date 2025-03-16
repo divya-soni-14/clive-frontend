@@ -29,8 +29,8 @@ Follow these steps to run the app locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/clive-app-v0.git
-cd clive-app-v0
+git clone https://github.com/your-username/clive-frontend.git
+cd clive-frontend
 ```
 
 ### 2. Install Dependencies
